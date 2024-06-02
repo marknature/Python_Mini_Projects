@@ -14,7 +14,7 @@ A collection of simple Python mini-projects to enhance your Python skills. If yo
    ```
 6. **Keep Your Fork in Sync**: Before making any changes, sync your fork with the original repository to avoid merge conflicts:
    ```
-   git remote add upstream https://github.com/Python-World/python-mini-projects.git
+   git remote add upstream ""'
    git fetch upstream
    git pull upstream master
    git push
