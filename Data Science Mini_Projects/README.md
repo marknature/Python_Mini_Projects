@@ -6,19 +6,9 @@ Welcome to my collection of mini projects dedicated to exploring the fascinating
 
 This directory contains various small-scale projects that demonstrate core concepts and applications in data science and its related fields. Each project is an opportunity to apply theoretical knowledge in practical scenarios, ranging from data manipulation to complex machine learning algorithms.
 
-## Projects
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It applies principles and techniques drawn from many areas within the broad areas of mathematics, statistics, information science, and computer science, including signal processing, probability models, machine learning, statistical learning, data mining, database systems, and visualization.
 
-- **Project 1**: [Project Title]
-  - **Description**: Brief description of the project.
-  - **Technologies**: Python, pandas, scikit-learn.
-  - **Key Concepts**: Data cleaning, EDA, model selection.
-
-- **Project 2**: [Project Title]
-  - **Description**: Brief description of the project.
-  - **Technologies**: Python, TensorFlow.
-  - **Key Concepts**: Neural networks, deep learning.
-
-... [More projects]
+Data scientists use their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.
 
 ## Technologies
 
