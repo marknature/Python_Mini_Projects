@@ -11,7 +11,7 @@ Using functions add(), subtract(), multiply() and divide() evaluate respective o
 
 <!--- Image -->
 <br>
-<img alt="screenshot of calculator" width="500" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
+<img alt="screenshot of calculator" width="500" src="img/screen04.png">
 <br>
 
 ## Python Program to Make GUI Calculator
