@@ -11,12 +11,17 @@ Using functions add(), subtract(), multiply() and divide() evaluate respective o
 
 <!--- Image -->
 <br>
-<img alt="screenshot of calculator" width="500" src="img/screen04.png">
+<img alt="screenshot of calculator" width="300" src="img/screen04.png">
 <br>
 
 ## Python Program to Make GUI Calculator
 
 GUI of a Calculator Which will help to add, subtract , Multiply and divide
+
+<!--- Image -->
+<br>
+<img alt="screenshot of calculator" width="300" src="img/screen03.png">
+<br>
 
 ## Python | Distance-time GUI calculator using Tkinter
 
