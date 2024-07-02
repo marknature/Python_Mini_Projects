@@ -8,10 +8,12 @@ Create a simple calculator which can perform basic arithmetic operations like ad
 
 User chooses the desired operation. Options 1, 2, 3, and 4 are valid. Two numbers are taken and an if…elif…else branching is used to execute a particular section.
 Using functions add(), subtract(), multiply() and divide() evaluate respective operations.
+
 <!--- Image -->
 <br>
 <img alt="screenshot of calculator" width="500" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
 <br>
+
 ## Python Program to Make GUI Calculator
 
 GUI of a Calculator Which will help to add, subtract , Multiply and divide
