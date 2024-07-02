@@ -10,18 +10,14 @@ User chooses the desired operation. Options 1, 2, 3, and 4 are valid. Two number
 Using functions add(), subtract(), multiply() and divide() evaluate respective operations.
 
 <!--- Image -->
-<br>
 <img alt="screenshot of calculator" width="300" src="img/screen04.png">
-<br>
 
 ## Python Program to Make GUI Calculator
 
 GUI of a Calculator Which will help to add, subtract , Multiply and divide
 
 <!--- Image -->
-<br>
 <img alt="screenshot of calculator" width="300" src="img/screen03.png">
-<br>
 
 ## Python | Distance-time GUI calculator using Tkinter
 
@@ -41,17 +37,22 @@ Modules required:
 - requests
 - json
 
+<!--- Image -->
+<img alt="screenshot of calculator" width="300" src="img/screen02.png">
+
 ## Python – Compound Interest GUI Calculator using Tkinter
 
 Python offers multiple options for developing a GUI (Graphical User Interface). Out of all the GUI methods, Tkinter is the most commonly used method. In this article, we will learn how to create a Compound Interest GUI Calculator application using Tkinter, with a step-by-step guide.
  
-
 To create a Tkinter: 
 
     Importing the module – tkinter
     Create the main window (container)
     Add any number of widgets to the main window.
     Apply the event Trigger on the widgets.
+
+<!--- Image -->
+<img alt="screenshot of calculator" width="300" src="img/screen01.png">
 
 ## Scientific GUI Calculator using Tkinter in Python
 
@@ -66,4 +67,7 @@ We are going to create GUI Scientific Calculator using Python. As you can see, c
 <br>**Step 5:** Here we will create a number pad for the calculator. 
 <br>**Step 6:** Now we will place all the buttons/operators in their respective position in the grid. This is up to you to set them as per your choice by changing their row and column value. In this, each button function is just taking the name of the operator, width, height, background, foreground, font, and respective column & row position of the button as an argument. 
 <br>**Step 7:** Now at last we will create a menubar of the calculator GUI. 
-<br>
+
+<!--- Image -->
+<img alt="screenshot of calculator" width="300" src="img/screen05.png">
+<img alt="screenshot of calculator" width="400" src="img/screen05,1.png">
