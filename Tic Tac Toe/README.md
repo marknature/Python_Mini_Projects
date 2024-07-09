@@ -55,11 +55,11 @@ This project implements a classic Tic Tac Toe game (also known as Noughts and Cr
 
 ### Single-Player Mode
 
-![Single-Player Mode](screenshots/single_player.png)
+![Single-Player Mode](https://github.com/marknature/Python_Mini_Projects/blob/main/Tic%20Tac%20Toe/img/Screenshot2.png)
 
 ### Two-Player Mode
 
-![Two-Player Mode](screenshots/two_player.png)
+![Two-Player Mode](https://github.com/marknature/Python_Mini_Projects/blob/main/Tic%20Tac%20Toe/img/Screenshot1.png)
 
 ## Contributing
 
