@@ -72,3 +72,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 - This project uses the Tkinter library for GUI components.
+- ![GeeksforGeeks](https://th.bing.com/th/id/OIP.2KCXnP7qEjCWEb6hc3eb_AAAAA?rs=1&pid=ImgDetMain)
+- https://www.geeksforgeeks.org/tic-tac-toe-game-with-gui-using-tkinter-in-python/
