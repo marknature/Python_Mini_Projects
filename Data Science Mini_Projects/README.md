@@ -7,7 +7,8 @@ Welcome to my collection of mini projects dedicated to exploring the fascinating
 This directory contains various small-scale projects that demonstrate core concepts and applications in data science and its related fields. Each project is an opportunity to apply theoretical knowledge in practical scenarios, ranging from data manipulation to complex machine learning algorithms.
 
 <p align="center">
-  <img src="README assets/img1.png" alt="logo">
+  <img src="README assets/img1.png" alt="Data Science
+    ">
 </p>
 
 Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It applies principles and techniques drawn from many areas within the broad areas of mathematics, statistics, information science, and computer science, including signal processing, probability models, machine learning, statistical learning, data mining, database systems, and visualization.
